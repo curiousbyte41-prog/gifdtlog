@@ -635,7 +635,7 @@ async def test_promo(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await msg.edit_text(
         f"✅ *Test Complete*\n\n"
         f"• Sent: {sent}\n"
-        f• Failed: {failed}",
+        f"• Failed: {failed}",
         parse_mode=ParseMode.MARKDOWN
     )
 
