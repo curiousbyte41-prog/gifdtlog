@@ -29,9 +29,9 @@ from telegram.constants import ParseMode
 # ─────────────────────────────────────────────────────────────
 # CONFIGURATION
 # ─────────────────────────────────────────────────────────────
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("ADMIN_BOT_TOKEN")
 if not BOT_TOKEN:
-    raise ValueError("8767455153:AAG_rJXoj2_7HF_m9EfZoquCwN1-L5Uigr4")
+    raise ValueError("ADMIN_BOT_TOKEN")
 
 MAIN_BOT_USERNAME = "@GIFT_CARD_41BOT"  # Your main bot
 ADMIN_ID = int(os.environ.get("ADMIN_ID", "6185091342"))
