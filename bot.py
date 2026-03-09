@@ -66,8 +66,7 @@ def get_env_var(name: str, required: bool = True, default: Any = None) -> Any:
         raise ValueError(f"❌ {name} environment variable not set!")
     return value
 
-BOT_TOKEN = get_env_var("BOT_TOKEN,
-8767455153:AAG_rJXoj2_7HF_m9EfZoquCwN1-L5Uigr4")
+BOT_TOKEN = get_env_var("BOT_TOKEN,8767455153:AAG_rJXoj2_7HF_m9EfZoquCwN1-L5Uigr4")
 BOT_USERNAME = get_env_var("BOT_USERNAME", required=False, default="")
 ADMIN_ID = int(get_env_var("ADMIN_ID"))
 UPI_ID = get_env_var("UPI_ID")
