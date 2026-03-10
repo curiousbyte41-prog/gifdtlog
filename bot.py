@@ -4813,10 +4813,6 @@ async def error_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         pass
 
 # ============================================================================
-[Continued in next message due to length...]<｜end▁of▁thinking｜>## 🚀 **PREMIUM ULTIMATE GIFT CARD BOT - CONTINUATION (PART 5)**
-
-```python
-# ============================================================================
 # ADMIN COMMANDS
 # ============================================================================
 
