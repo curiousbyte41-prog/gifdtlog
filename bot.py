@@ -4057,10 +4057,6 @@ async def daily_reward(update: Update, context: ContextTypes.DEFAULT_TYPE):
         )
 
 # ============================================================================
-[Continued in next message due to length...]<｜end▁of▁thinking｜>## 🚀 **PREMIUM ULTIMATE GIFT CARD BOT - CONTINUATION (PART 4)**
-
-```python
-# ============================================================================
 # MYSTERY BOX FEATURE
 # ============================================================================
 
