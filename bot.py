@@ -1108,7 +1108,6 @@ CARD_EXCHANGE_RATES = {
 # CONVERSATION STATES - PREMIUM EDITION
 # ============================================================================
 
-(
     # Authentication States
     STATE_VERIFY,
     STATE_LOGIN,
