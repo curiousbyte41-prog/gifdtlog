@@ -1211,7 +1211,7 @@ CARD_EXCHANGE_RATES = {
     STATE_ADMIN_RESTORE_DB,
     STATE_ADMIN_SETTINGS,
     STATE_ADMIN_MAINTENANCE,
-) = range(100)
+) = range(79)
 
 # ============================================================================
 # PREMIUM DATABASE MANAGER
